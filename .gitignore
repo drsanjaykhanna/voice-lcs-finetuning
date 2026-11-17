@@ -1,0 +1,8 @@
+# Nothing but the README belongs here until the release is prepared.
+.env
+*.env
+*.key
+*.pem
+__pycache__/
+.venv/
+.claude/
